@@ -1,4 +1,5 @@
 <img src="./header.png" width = "100%" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=DA02FF00&width=435&lines=Hey%2C+I+am+Fatima%2C+a+full-stack+developer" alt="Typing SVG" /></a>
 
 I'm a passionate software developer who loves transforming ideas into digital solutions. I love to think out of the box and love to take challenges. My strong problem-solving skills enable me to analyze complex problems and develop solutions. I believe self-growth and giving up is not an option for me.
 
@@ -34,5 +35,4 @@ src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/a25b2a
 ### Badges
 
 <b>My GitHub Stats</b>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=batoolfatima2135)](https://git.io/streak-stats)
 <a href="http://www.github.com/batoolfatima2135"><img src="https://github-readme-streak-stats.herokuapp.com/?user=batoolfatima2135&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
