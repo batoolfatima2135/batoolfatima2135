@@ -1,8 +1,4 @@
-![Header](./header.png)
-==============================
-
-Full-Stack Developer
---------------------
+<img src="./header.png" width = "100%" >
 
 I'm a passionate software developer who loves transforming ideas into digital solutions. I love to think out of the box and love to take challenges. My strong problem-solving skills enable me to analyze complex problems and develop solutions. I believe self-growth and giving up is not an option for me.
 
