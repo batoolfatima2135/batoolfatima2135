@@ -17,6 +17,7 @@ src="https://img.shields.io/github/followers/batoolfatima2135?logo=github&style=
 
 ### Skills
 
+![5483063_2824139](https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/0a401e11-bcd0-4c4b-83c5-7564bd307b67)
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
