@@ -1,5 +1,5 @@
 <img src="./header.png" width = "100%" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=300&background=DA02FF00&width=635&height=100&lines=Hey%2C+I+am+Fatima.;+Full-Stack+Developer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=35&pause=300&color=000000&background=DA02FF00&center=true&width=635&height=100&lines=Welcome+to+my+GitHub+universe!" alt="Typing SVG" /></a>
 
 I'm a passionate software developer who loves transforming ideas into digital solutions. I love to think out of the box and love to take challenges. My strong problem-solving skills enable me to analyze complex problems and develop solutions. I believe self-growth and giving up is not an option for me.
 
