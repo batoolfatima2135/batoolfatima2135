@@ -12,7 +12,7 @@ I'm a passionate software developer who loves transforming ideas into digital so
 <a href="https://www.github.com/batoolfatima2135" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/batoolfatima2135?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img
-src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="500px" align="right" />
+src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="400px" align="right" />
 ### Skills
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
