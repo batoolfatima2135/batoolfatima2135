@@ -33,7 +33,9 @@ src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c1
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/batoolfatima2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/batool-fatima-515531196/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/batool2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@batoolfatima2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-<iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
 
 ### Badges
 ![batoolfatima2135's Streak](https://github-readme-streak-stats.herokuapp.com/?user=batoolfatima2135&theme=tokyonight&hide_border=false)
