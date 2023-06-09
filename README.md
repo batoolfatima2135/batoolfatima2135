@@ -39,7 +39,10 @@ src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c1
 
 ### Stats 
 
+<div>
 ![batoolfatima2135's Stats](https://github-readme-stats.vercel.app/api?username=batoolfatima2135&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+</div>
+
 
 ### Top Languages
 
