@@ -41,3 +41,4 @@ src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c1
 ### Stats 
 
 ![batoolfatima2135's Stats](https://github-readme-stats.vercel.app/api?username=batoolfatima2135&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![batoolfatima2135's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batoolfatima2135&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
