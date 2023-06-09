@@ -34,13 +34,13 @@ src="https://img.shields.io/github/followers/batoolfatima2135?logo=github&style=
 
 <p align="left"> <a href="https://www.github.com/batoolfatima2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/batool-fatima-515531196/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/batool2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@batoolfatima2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-<img
-src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="400px" align="right" />
-
 
 
 ### Badges
 ![batoolfatima2135's Streak](https://github-readme-streak-stats.herokuapp.com/?user=batoolfatima2135&theme=tokyonight&hide_border=false)
+
+<img
+src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="400px" align="right" /> 
 
 ### Stats 
 
