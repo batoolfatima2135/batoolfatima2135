@@ -11,8 +11,8 @@
 <p>If you're as passionate about innovative software development as I am, then hit that <b>'Follow'</b> button and let's embark on an exciting adventure through lines of code.</p>
 <a href="https://www.github.com/batoolfatima2135" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/batoolfatima2135?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<img
-src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="400px" align="right" />
+
+<img src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/fda545fb-d86b-49e1-879b-333c56ea8eb3" align = "right" >
 
 ### Skills
 
@@ -34,7 +34,8 @@ src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c1
 
 <p align="left"> <a href="https://www.github.com/batoolfatima2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/batool-fatima-515531196/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/batool2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@batoolfatima2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-<img src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/fda545fb-d86b-49e1-879b-333c56ea8eb3" align = "right" >
+<img
+src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="400px" align="right" />
 
 
 
