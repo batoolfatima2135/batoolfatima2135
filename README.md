@@ -6,7 +6,7 @@
 * ✉️  You can contact me at [Batoolfatima2135@gmail.com](mailto:Batoolfatima2135@gmail.com)
 * 🚀  I'm currently working on [To-do-List App](http://batoolfatima2135.github.io/To-do-List-App/)
 * 🧠  I'm learning Webpack
-* 🤝  I'm open to collaborating on all my skill related projects
+* 🤝  Currently seeking new opportunities 
 
 <p>If you're as passionate about innovative software development as I am, then hit that <b>'Follow'</b> button and let's embark on an exciting adventure through lines of code.</p>
 <a href="https://www.github.com/batoolfatima2135" target="_blank" rel="noreferrer"><img
