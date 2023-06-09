@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/batoolfatima2135?logo=github&style=
 
 ![batoolfatima2135's Stats](https://github-readme-stats.vercel.app/api?username=batoolfatima2135&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 <img 
-src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="400px" align="right" style="border-radius:50px;" /> 
+src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="350px" align="right" style="border-radius:50px;" /> 
 
 ### Top Languages
 
