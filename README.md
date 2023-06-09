@@ -12,7 +12,7 @@
 <a href="https://www.github.com/batoolfatima2135" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/batoolfatima2135?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<img src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/fda545fb-d86b-49e1-879b-333c56ea8eb3" align = "right"  style="border-radius:50px;" >
+<img src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/fda545fb-d86b-49e1-879b-333c56ea8eb3" align = "right"  style="border-radius:50px;" width="400px" >
 
 ### Skills
 
