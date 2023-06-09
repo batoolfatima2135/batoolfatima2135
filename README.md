@@ -39,12 +39,13 @@ src="https://img.shields.io/github/followers/batoolfatima2135?logo=github&style=
 ### Badges
 ![batoolfatima2135's Streak](https://github-readme-streak-stats.herokuapp.com/?user=batoolfatima2135&theme=tokyonight&hide_border=false)
 
-<img
-src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="400px" align="right" /> 
+
 
 ### Stats 
 
 ![batoolfatima2135's Stats](https://github-readme-stats.vercel.app/api?username=batoolfatima2135&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+<img
+src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="400px" align="right" /> 
 
 ### Top Languages
 
