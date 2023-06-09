@@ -34,7 +34,8 @@ src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c1
 
 <p align="left"> <a href="https://www.github.com/batoolfatima2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/batool-fatima-515531196/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/batool2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@batoolfatima2135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-<img src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/96afb9e4-bb76-4b40-8546-4cae3a7358eb" align = "right" >
+<img src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/fda545fb-d86b-49e1-879b-333c56ea8eb3" align = "right" >
+
 
 
 ### Badges
