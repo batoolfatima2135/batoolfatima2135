@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [Batoolfatima2135@gmail.com](mailto:Batoolfatima2135@gmail.com)
-* 🚀  I'm currently working on [google-batool](http://batoolfatima2135.github.io/To-do-List-App/](https://github.com/batoolfatima2135/google-batool)
+* 🚀  I'm currently working on [google-batool](https://github.com/batoolfatima2135/google-batool)
 * 🧠  I'm learning Next.js
 * 🤝  Currently seeking new opportunities 
 
